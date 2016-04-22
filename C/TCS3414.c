@@ -36,7 +36,7 @@ void main()
 	write(file, config, 2);
 	sleep(1);
 
-	// Read 8 bytes of data from register(0x10)
+	// Read 8 bytes of data from register(0x10 | 0x80)
 	// green lsb, green msb, red lsb, red msb
 	// blue lsb, blue msb, cData lsb, cData msb
 	char reg[1] = {0x10 | 0x80};
