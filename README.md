@@ -8,7 +8,7 @@ This Device is available from ControlEverything.com [SKU: TCS3414_I2CS]
 
 https://www.controleverything.com/content/Color?sku=TCS3414_I2CS
 
-This Sample code can be used with Raspberry pi and Arduino.
+This Sample code can be used with Raspberry pi, Arduino and Beaglebone Black.
 
 ## Java
 Download and install pi4j library on Raspberry pi. Steps to install pi4j are provided at:
