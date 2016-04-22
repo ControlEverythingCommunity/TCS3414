@@ -47,4 +47,16 @@ Download (or git pull) the code and double click the file to run the program.
 
 Compile and upload the code on Arduino IDE and see the output on Serial Monitor.
 
+## C
+
+Download (or git pull) the code in Beaglebone Black.
+
+Compile the c program.
+```cpp
+$>gcc TCS3414.c -o TCS3414
+```
+Run the c program.
+```cpp
+$>./TCS3414
+```
 #####The code output is the lux value of IR , RGB and total luminance.
