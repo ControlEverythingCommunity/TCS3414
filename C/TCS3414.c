@@ -1,4 +1,4 @@
-// Distributed with a free-will license
+// Distributed with a free-will license.
 // Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
 // TCS3414
 // This code is designed to work with the TCS3414_I2CS I2C Mini Module available from ControlEverything.com.
