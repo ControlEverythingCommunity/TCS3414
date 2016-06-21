@@ -39,7 +39,7 @@ public class TCS3414
 		int cData = ((data[7] & 0xFF) * 256 + (data[6] & 0xFF));
 
 		// Calculate luminance
-		double luminance = (-0.32466 * red) + (1.57837 * green) + (-0.73191 * blue)
+		double luminance = (-0.32466 * red) + (1.57837 * green) + (-0.73191 * blue);
 
 		// Output data to Screen
 		System.out.printf("Green Color Luminance : %d lux %n", green);
