@@ -44,7 +44,7 @@ void main()
 	char data[8] = {0};
 	if(read(file, data, 8) != 8)
 	{
-		printf("Erorr : Input/output Erorr \n");
+		printf("Error : Input/Output error \n");
 	}
 	else
 	{
